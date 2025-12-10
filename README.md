@@ -88,6 +88,7 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
 - [Splash Rats](https://subscribepage.io/KKZbQM): co-op platformer with liquid physics
 - [Abysm](https://store.steampowered.com/app/4025180/Abysm/): Atmospheric physics based puzzle game with action elements
+- [Signs of Danger](https://store.steampowered.com/app/3816900/Signs_of_Danger/): Muultiplayer falling sand game ; bevy crates used, windowing + graphics is macroquad
 
 [^1]: Projects money-oriented are more easily evaluated, but entertainment or innovation might convince me.
 [^2]: This list is edited manually, I'm open to discussions in pull requests or issues.
