@@ -47,6 +47,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 # Research
 
 - [Shu](https://doi.org/10.1093/bioinformatics/btae140): visualization of high-dimensional biological pathways
+- [Theory and Practice of Concurrency in ECS](https://arxiv.org/abs/2508.15264): its [talk](https://www.youtube.com/watch?v=z2vqiVtmsuY) (first 15 minutes) is also available
 
 # Miscellaneous
 
@@ -86,6 +87,7 @@ Those are not "in production" yet[^2], but I believe they will be at some point.
 - [Unhaunter](https://github.com/deavid/unhaunter/): Atmospheric isometric ghost hunting
 - [Mega Giga Cookie Destroyer TD](https://store.steampowered.com/app/2283070/Mega_Giga_Cookie_Destroyer_TD/) : Tower defense with cookies
 - https://buttondown.email/oneplanet/archive/one-planet-a-climate-strategy-game/
+- [INSANIO](https://store.steampowered.com/app/4177650/INSANIO/): Autobattler where you send misfits into vehicular combat
 - [Splash Rats](https://subscribepage.io/KKZbQM): co-op platformer with liquid physics
 - [Abysm](https://store.steampowered.com/app/4025180/Abysm/): Atmospheric physics based puzzle game with action elements
 - [Signs of Danger](https://store.steampowered.com/app/3816900/Signs_of_Danger/): Muultiplayer falling sand game ; bevy crates used, windowing + graphics is macroquad
