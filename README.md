@@ -4,7 +4,7 @@ My curated list of projects using bevy in production[^1], preferably with a comp
 
 # Native or web
 
-- [Foresight Mining](https://www.foresightmining.com/): modelling, terrain/underground visualization
+- [Foresight Spatial Labs](https://www.fslabs.ca/): voumetric streaming renderers, CAD, GPU physics, and spatial mathematics
 - [Molecoole](https://store.steampowered.com/app/1792170/Molecoole/): action shooter roguelike
 - [Systemfault](https://www.lightsout.games/systemfault): audio only tactical shoot 'em up
 - [Tunnet](https://store.steampowered.com/app/2286390/Tunnet/): Builder adventure ; uses a custom renderer on top of bevy ecs.
